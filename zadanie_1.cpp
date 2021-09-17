@@ -1,4 +1,4 @@
-//zadanie 1
+//zadanie 1.
 //wykonanie: Patryk Jajdyk(09.09.21)
 #include <iostream>
 #include <cstdlib>
